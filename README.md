@@ -1,2 +1,3 @@
-# philroberta
-philroberta, a language model for the analysis of philosophical macro history after 1900
+# philroBERTa
+
+This is a standin-repo, where we will publish code & resources for the PhilroBERTa project. 
